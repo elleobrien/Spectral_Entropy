@@ -1,6 +1,8 @@
 % This script computes the entropy of any given distribution.
 
-% Make a pure tone
+
+
+% Simulate Make a pure tone
 pure_tone = zeros(1,1000);
 pure_tone(200) = 1;
 
